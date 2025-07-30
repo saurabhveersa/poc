@@ -1,1 +1,1 @@
-# poc for HELM and ArgoCD
+# poc for plain k8s deployment
