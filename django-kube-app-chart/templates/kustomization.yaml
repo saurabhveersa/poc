@@ -1,6 +1,0 @@
-resources:
-  - namespace.yaml
-  - configmap.yml
-  - deployment.yaml
-  - service.yaml
-  - ingress.yaml
