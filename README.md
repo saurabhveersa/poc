@@ -1,7 +1,7 @@
 
 ---
 
-## ✅ 1. `django-kube-app/README.md` (Python + Docker)
+## ✅ `django-kube-app/README.md` (Python + Docker)
 
 ```markdown
 # Django App: django-kube-app
@@ -46,7 +46,7 @@ django-kube-app/
 
 ```bash
 docker build -t django-kube-app .
-```
+
 
 ## Run Locally
 
@@ -55,5 +55,5 @@ docker run -p 8000:8000 django-kube-app
 Then open:
 
 http://localhost:8000/api/management/?format=api
-
+```
 
